@@ -1,58 +1,62 @@
 {
   "project": "Marine Tidal Turbine Structural Performance Analytics",
-  "publication_type": "GitHub Portfolio",
+  "publication_type": "GitHub Engineering Portfolio \u2014 redesigned layout",
   "files": {
-    "Project_4_Marine_Tidal_Turbine_Public.ipynb": {
-      "size_bytes": 67215,
-      "sha256": "5ed9495860c5ab6ea4c996d035df7a798d51e128c786074a9b5c65ccf87e8edc"
-    },
     "README.md": {
-      "size_bytes": 3039,
-      "sha256": "aa37b5a6f234d25c9935b7d29cd570d36abe0d5365d35d60d8f15c6f6afb826e"
+      "size_bytes": 5941,
+      "sha256": "308d16a5d787119d977e5eeaa744e3ee97c73a096b4365b78c783169f379f272"
     },
-    "DATA_SOURCE.md": {
+    "assets/project-banner.svg": {
+      "size_bytes": 1547,
+      "sha256": "2d3fc9f3b8b2076911f9dac14ff53aaf52ebe10e20066da75cf200d4ea81b9d6"
+    },
+    "dashboards/strain_response_225.png": {
+      "size_bytes": 184337,
+      "sha256": "c42d869395c586507dcaa08768fee55144a151f5d95a2cbc905b2357cb5538ec"
+    },
+    "dashboards/strain_response_250.png": {
+      "size_bytes": 136175,
+      "sha256": "4f13d8ba7c2873153d878c672dbd8f717e9879ded3a7faeae940cb84c80ac89f"
+    },
+    "dashboards/structural_displacement.png": {
+      "size_bytes": 272211,
+      "sha256": "b9dc6a3359fed3d364818f8a775acc9aecd2e6897332a6414a4995238cd771d1"
+    },
+    "dashboards/structural_event_250.png": {
+      "size_bytes": 576108,
+      "sha256": "a87bc51d22bd2474a6b86885171e7825cc860a3c2912b86bd35351d40f4c7f32"
+    },
+    "dashboards/structural_loading.png": {
+      "size_bytes": 275193,
+      "sha256": "7884b43f1f6b9b9ed2d288bf641cfff53ee0688fbf8f23fb6d39a9ec59cda022"
+    },
+    "docs/DATA_SOURCE.md": {
       "size_bytes": 1701,
       "sha256": "fdb26bee7254c49304bf20e187aeddbab8c47a8e2fbfc8f50b73c422a9db7dff"
     },
-    "REPRODUCIBILITY.md": {
-      "size_bytes": 2231,
-      "sha256": "b19070a5a8f22bb09e782e1627df56c90c5f4c28bad061357af9571501e39073"
+    "docs/REPRODUCIBILITY.md": {
+      "size_bytes": 2280,
+      "sha256": "ca23953f0510a96b700217c7b2ecdda2faeb7863337875ba351215242d5dacdf"
     },
-    "requirements.txt": {
-      "size_bytes": 108,
-      "sha256": "65b6614e04cda30b52cd7fcf8f334c3e109560af34d546438a79b37b32b412d6"
+    "notebooks/Project_4_Marine_Tidal_Turbine_Public.ipynb": {
+      "size_bytes": 67215,
+      "sha256": "5ed9495860c5ab6ea4c996d035df7a798d51e128c786074a9b5c65ccf87e8edc"
     },
     "reports/Project_4_Engineering_Findings.md": {
-      "size_bytes": 3056,
-      "sha256": "18715e892dbdf00199b876984a32c002e18e2561899b05611f302ab4508c55ba"
+      "size_bytes": 3052,
+      "sha256": "6da9127a231feb1e24e6e5fe9cc9c6775870b32417a8d66a78236760e28697bc"
     },
     "reports/Project_4_Engineering_Report.pdf": {
       "size_bytes": 1189304,
       "sha256": "6e58a3b82bd8c1e792d1f8fabf0a4b5c9a3aa2e4e08e710ab6230b62c50132ea"
     },
-    "dashboards/structural_loading.png": {
-      "size_bytes": 238813,
-      "sha256": "cb34a4bed872b7ee8843102e6e07683472b19aed61eab0688a368b2cfa1658fb"
+    "requirements.txt": {
+      "size_bytes": 108,
+      "sha256": "65b6614e04cda30b52cd7fcf8f334c3e109560af34d546438a79b37b32b412d6"
     },
-    "dashboards/structural_displacement.png": {
-      "size_bytes": 234240,
-      "sha256": "a6067c7c044d9f1715a861c165cddaac12ba8f4be54a9a0491742be0bd57390f"
-    },
-    "dashboards/strain_response_225.png": {
-      "size_bytes": 164373,
-      "sha256": "eab884bddd690fe158558078a4c2c92a426d43c1d713be5689465df1ff57637e"
-    },
-    "dashboards/strain_response_250.png": {
-      "size_bytes": 118296,
-      "sha256": "301847383a60087705f422ed5c0ad8ce3f96d7ca02c4289bf48c0285c6259e40"
-    },
-    "dashboards/structural_event_250.png": {
-      "size_bytes": 267807,
-      "sha256": "29f2a853fe8d00b8b8e3fca06c96c74c1c881afa2fded1ac06e3c54653518619"
-    },
-    "sql/structural_test_summary.sql": {
-      "size_bytes": 384,
-      "sha256": "9d386d50b13a56bd7127074df0f9f921df0c6a59849822209c30d69387471d39"
+    "sql/sql_event_detection_results.csv": {
+      "size_bytes": 784,
+      "sha256": "0f0407b8e862b94bba52c802ae12cebbbd26a40d042ad99d39b0df73aa00cd4c"
     },
     "sql/structural_event_detection.sql": {
       "size_bytes": 946,
@@ -62,10 +66,9 @@
       "size_bytes": 190,
       "sha256": "a8e1ce82f40c49c5e63b0fbc7bdea6092b0aa92b171f84460905037afaaffef2"
     },
-    "sql/sql_event_detection_results.csv": {
-      "size_bytes": 784,
-      "sha256": "0f0407b8e862b94bba52c802ae12cebbbd26a40d042ad99d39b0df73aa00cd4c"
+    "sql/structural_test_summary.sql": {
+      "size_bytes": 384,
+      "sha256": "9d386d50b13a56bd7127074df0f9f921df0c6a59849822209c30d69387471d39"
     }
-  },
-  "publication_notes": "Manifest regenerated for uploaded dashboard image files and updated documentation."
+  }
 }

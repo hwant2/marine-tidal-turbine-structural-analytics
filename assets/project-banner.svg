@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="300" viewBox="0 0 1200 300" role="img" aria-label="Marine Tidal Turbine Structural Performance Analytics">
+<defs><linearGradient id="bg" x2="1" y2="1"><stop stop-color="#09090c"/><stop offset="1" stop-color="#21070c"/></linearGradient><linearGradient id="accent"><stop stop-color="#8f162b"/><stop offset="1" stop-color="#ed465d"/></linearGradient></defs>
+<rect width="1200" height="300" fill="url(#bg)"/><rect x="0" y="0" width="12" height="300" fill="url(#accent)"/><g opacity=".25" stroke="#b12b42" fill="none"><circle cx="1050" cy="150" r="65" stroke-width="3"/><circle cx="1050" cy="150" r="103" stroke-width="2"/><circle cx="1050" cy="150" r="142" stroke-width="1"/><path d="M900 150h300 M1050 0v300"/><path d="M1050 150L1130 98M1050 150L992 244M1050 150L955 106" stroke-width="14" stroke-linecap="round"/></g>
+<text x="65" y="70" font-family="Arial,Helvetica,sans-serif" font-size="19" font-weight="bold" letter-spacing="4" fill="#f06475">ENGINEERING ANALYTICS / PROJECT 04</text>
+<text x="65" y="135" font-family="Arial,Helvetica,sans-serif" font-size="46" font-weight="bold" fill="#ffffff">MARINE TIDAL TURBINE</text>
+<text x="65" y="191" font-family="Arial,Helvetica,sans-serif" font-size="37" font-weight="bold" fill="#f2e6e8">STRUCTURAL PERFORMANCE</text>
+<rect x="65" y="221" width="600" height="2" fill="#a52840"/>
+<text x="65" y="258" font-family="Arial,Helvetica,sans-serif" font-size="18" fill="#bcb2b6">LOAD TESTING  •  SENSOR QUALITY  •  PYTHON + SQL</text>
+</svg>
