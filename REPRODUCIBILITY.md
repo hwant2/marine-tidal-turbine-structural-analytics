@@ -21,8 +21,8 @@ The original analysis uses three Excel workbooks:
 3. LB10_250_2026_02_17_15_17_27_10Hz.xlsx
 
 Original source workbooks are excluded from
-the public GitHub package pending verification
-of redistribution permissions.
+the public GitHub package. See DATA_SOURCE.md
+for the source citation and CC BY 4.0 terms.
 
 ## Running the Analysis
 
@@ -69,16 +69,16 @@ The physical cause remains unverified.
   constant or unusual readings.
 - Physical blade failure is not confirmed.
 - The notebook uses Colab-specific paths.
-- Fresh-runtime execution has not yet
-  been independently verified.
+- Fresh-runtime execution was reported successful
+  in Google Colab with the source files present.
 
 ## Publication Notes
 
 The public repository is intended to document
 analytical methods and engineering findings.
 
-Source-data licensing and attribution must
-be verified before public distribution.
+Source attribution and the CC BY 4.0 license
+are documented in DATA_SOURCE.md.
 
-Saved notebook outputs should be reviewed
-for sensitive information before publication.
+The public notebook has its saved outputs and
+execution counts removed.

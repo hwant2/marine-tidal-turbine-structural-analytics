@@ -107,12 +107,13 @@ Physical blade failure has not been confirmed.
 ## Reproducibility
 
 The analysis was performed in Google Colab.
-The final notebook, source-data documentation,
-dependencies, and publication package will be
-validated before the repository is declared complete.
+The public notebook, source-data documentation, and
+dependencies are included. The analysis was rerun
+successfully in a fresh Google Colab runtime with
+the original source files available.
 
 ## Status
 
-Engineering analysis and automated PDF validation
-completed. Final reproducibility and GitHub
-publication checks pending.
+Engineering analysis, automated PDF validation,
+and fresh-runtime execution completed.
+Public GitHub publication is complete.

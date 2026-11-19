@@ -7,16 +7,16 @@
       "sha256": "5ed9495860c5ab6ea4c996d035df7a798d51e128c786074a9b5c65ccf87e8edc"
     },
     "README.md": {
-      "size_bytes": 2993,
-      "sha256": "165dafa34ff873238ba475bd990baabf687a955531d4052d1858fbb483c04b87"
+      "size_bytes": 3039,
+      "sha256": "aa37b5a6f234d25c9935b7d29cd570d36abe0d5365d35d60d8f15c6f6afb826e"
     },
     "DATA_SOURCE.md": {
       "size_bytes": 1701,
       "sha256": "fdb26bee7254c49304bf20e187aeddbab8c47a8e2fbfc8f50b73c422a9db7dff"
     },
     "REPRODUCIBILITY.md": {
-      "size_bytes": 2208,
-      "sha256": "f9a41192e375928be176de3ddf710df7262906bab47fa83da7c09b07f6b1496c"
+      "size_bytes": 2231,
+      "sha256": "b19070a5a8f22bb09e782e1627df56c90c5f4c28bad061357af9571501e39073"
     },
     "requirements.txt": {
       "size_bytes": 108,
@@ -66,5 +66,6 @@
       "size_bytes": 784,
       "sha256": "0f0407b8e862b94bba52c802ae12cebbbd26a40d042ad99d39b0df73aa00cd4c"
     }
-  }
+  },
+  "publication_notes": "Manifest regenerated for uploaded dashboard image files and updated documentation."
 }
