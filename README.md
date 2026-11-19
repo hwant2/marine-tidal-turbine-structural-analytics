@@ -1,7 +1,7 @@
 <p align="center"><img src="assets/project-banner.svg" alt="Marine Tidal Turbine — Structural Performance Analytics" width="100%" /></p>
 
 <h1 align="center">Marine Tidal Turbine | Structural Performance Analytics</h1>
-<p align="center"><strong>Independent engineering analytics portfolio · Project 04</strong></p>
+<p align="center"><strong>Independent engineering analytics portfolio </strong></p>
 <p align="center">
   <img alt="Python" src="https://img.shields.io/badge/Python-Analysis-811b30?style=flat-square" />
   <img alt="SQLite" src="https://img.shields.io/badge/SQLite-Event%20Detection-811b30?style=flat-square" />
